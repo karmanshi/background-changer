@@ -1,2 +1,2 @@
-# bground-changer
+# background-changer
 learn about state
